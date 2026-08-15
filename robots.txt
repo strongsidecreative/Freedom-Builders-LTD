@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freedombuilders.co.nz/sitemap.xml

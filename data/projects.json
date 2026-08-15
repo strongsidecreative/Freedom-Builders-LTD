@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "slug": "deck-pergola-bay-of-plenty",
+    "title": "Deck & Pergola Build",
+    "category": "Decks & Outdoor Living",
+    "location": "Bay of Plenty",
+    "stage": "completed",
+    "featured": true,
+    "short": "A new deck and pergola built onto the back of the house, extending the living space outdoors.",
+    "description": "Brendon built this deck and pergola from the ground up, framing, decking and roofing it to tie in cleanly with the existing house. The clear roof panels let light through while giving cover from the weather, and the deck extends the home's living space straight off the ranch slider.",
+    "cover": "deck-completed",
+    "gallery": ["deck-completed"]
+  },
+  {
+    "id": 2,
+    "slug": "kitchen-rebuild-bay-of-plenty",
+    "title": "Kitchen Rebuild",
+    "category": "Kitchens",
+    "location": "Bay of Plenty",
+    "stage": "in-progress",
+    "featured": true,
+    "short": "A full kitchen rebuild as part of a wider home renovation, cabinetry and fit-out underway.",
+    "description": "Part of a larger home renovation, this job involved rebuilding the kitchen from stripped-back floors and walls through to fitted cabinetry, benchtop and appliances. Work like this often runs alongside other trades, and Brendon coordinates the building side of the job from start to finish.",
+    "cover": "kitchen-renovation",
+    "gallery": ["kitchen-renovation"]
+  },
+  {
+    "id": 3,
+    "slug": "kitchen-splashback-tiling-bay-of-plenty",
+    "title": "Kitchen Splashback Tiling",
+    "category": "Kitchens",
+    "location": "Bay of Plenty",
+    "stage": "in-progress",
+    "featured": true,
+    "short": "Tiling a stone-look splashback around a kitchen benchtop and window.",
+    "description": "A stone-look tiled splashback going in around the sink and window as part of a kitchen update. Careful setting out around the window and power points makes the difference on jobs like this, where the finished result needs to line up cleanly on every side.",
+    "cover": "kitchen-backsplash",
+    "gallery": ["kitchen-backsplash"]
+  },
+  {
+    "id": 4,
+    "slug": "bathroom-renovation-bay-of-plenty",
+    "title": "Bathroom Renovation",
+    "category": "Bathrooms",
+    "location": "Bay of Plenty",
+    "stage": "in-progress",
+    "featured": false,
+    "short": "A bathroom renovation with a corner spa bath, new vanity and tiled flooring.",
+    "description": "A bathroom renovation built around a corner spa bath, with a new vanity and floor tiling throughout. The bath is still in its protective packaging in these photos, taken partway through the job, with fixtures and fittings still to go in.",
+    "cover": "bathroom-renovation",
+    "gallery": ["bathroom-renovation"]
+  }
+]
